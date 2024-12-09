@@ -1,0 +1,59 @@
+/* Navbar */
+.navbar-default {
+    background-color: #333;
+    border-color: #333;
+  }
+  
+  .navbar-default .navbar-brand,
+  .navbar-default .nav > li > a {
+    color: white;
+  }
+  
+  .navbar-default .nav > li > a:hover {
+    color: #ffafbd;
+  }
+  
+  /* Text Centering */
+  /* Background image for welcome section */
+/* Styles for welcome section */
+.welcome-section img {
+    margin-bottom: 20px; /* Add space below the image */
+    border-radius: 10px; /* Optional: Rounded corners for the image */
+  }
+  
+  .welcome-section h1 {
+    color: #333; /* Dark text for contrast */
+    margin-top: 20px;
+  }
+  
+  .welcome-section p {
+    color: #555; /* Subtle text color */
+    font-size: 1.2em;
+  }
+  
+  
+  .text-center {
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    margin-top: 20px;
+  }
+  
+  /* Images */
+  .img-rounded {
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+  /* Footer */
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    margin-top: 30px;
+  }
+  
+  .footer p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: aliceblue;
+  }
+  
